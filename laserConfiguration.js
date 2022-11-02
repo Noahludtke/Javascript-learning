@@ -1,0 +1,3 @@
+let laserStatus;
+
+laserStatus = "OFF";
